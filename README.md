@@ -64,5 +64,19 @@ The application integrates **Tesseract OCR** to extract textual information from
 - Implement full-text search with Elasticsearch for even faster search performance.
 - Include automated notifications for newly uploaded or modified documents.
 
----
+## Screenshots From GUI
+
+<img width="1919" height="921" alt="image" src="https://github.com/user-attachments/assets/6ae0d406-ac7d-49c7-afe0-da97e0f015f3" />
+<img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/77f4f905-a450-4342-8094-deb1564e4282" />
+<img width="1920" height="921" alt="image" src="https://github.com/user-attachments/assets/74fd1ba9-5612-450a-a17e-c4e7e2a00c49" />
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/a003aca2-13cd-4f96-8a3d-8b6d587c70cc" />
+<img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/50fa9020-f035-4b55-9319-8d25acd3bf94" />
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/bebb7b10-f0ac-4479-9083-dfe5aeb299de" />
+
+
+
+
+
+
+
 
